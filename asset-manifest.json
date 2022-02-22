@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dailyark-react/static/css/main.073c9b0a.css",
+    "main.js": "/dailyark-react/static/js/main.a881d3a8.js",
+    "static/js/787.78ca502f.chunk.js": "/dailyark-react/static/js/787.78ca502f.chunk.js",
+    "static/media/logo.svg": "/dailyark-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dailyark-react/index.html",
+    "main.073c9b0a.css.map": "/dailyark-react/static/css/main.073c9b0a.css.map",
+    "main.a881d3a8.js.map": "/dailyark-react/static/js/main.a881d3a8.js.map",
+    "787.78ca502f.chunk.js.map": "/dailyark-react/static/js/787.78ca502f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a881d3a8.js"
+  ]
+}
